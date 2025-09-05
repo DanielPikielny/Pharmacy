@@ -1,4 +1,5 @@
 Pharmacy Management System
+
 This project is a comprehensive program designed to manage the operations of a pharmacy, from managing medicines and supplies to handling customers, prescriptions, and purchases. It's built to streamline pharmacy operations while providing a robust and interactive menu-driven interface. Perfect for demonstrating your C programming skills while tackling real-world problems.
 
 Features
